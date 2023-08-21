@@ -559,7 +559,7 @@ halt 关闭系统，等同于shutdown –h now 和 poweroff
 
     
 
-    ## 使用密钥认证机制远程登录linux
+    使用密钥认证机制远程登录linux
 
     SSH 为 Secure Shell 的缩写，由 IETF 的网络工作小组（Network Working Group）所制定。
 
